@@ -166,21 +166,4 @@ Through this project, I demonstrated proficiency in:
 
 ---
 
-##  Contact
 
-**[Your Name]**
--  Email: your.email@example.com
--  LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
-
----
-
-## 📄 License
-
-This project is for portfolio and educational purposes. Data is synthetic.
-
----
-
-⭐ **If you found this project helpful, please star this repository!**
-
-*Last Updated: January 2026*
