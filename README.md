@@ -104,6 +104,7 @@ excel file: https://github.com/Saleh-MH4/Coffee-Shop-analyst/blob/main/coffe%20s
 <img width="1413" height="819" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/0325da53-b2ee-4378-b4ab-9ad484c3b6d2" />
 
 
+![coffee shop gif](https://github.com/user-attachments/assets/676a4db7-8f53-43c8-b805-da49013be419)
 
 
 
