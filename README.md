@@ -22,7 +22,7 @@ data sourc: data.world
 
 ##  Tools & Technologies
 
-- **SQL (T-SQL)** - Data extraction, transformation, and aggregation
+- **SQL ** - Data extraction, transformation, and aggregation
 - **Microsoft Excel** - Financial analysis, variance tracking, KPI dashboards
 - **Power BI** - Interactive visualizations and executive reporting
 
@@ -58,11 +58,12 @@ data sourc: data.world
 -  Business insight generation
 
 <img width="1550" height="865" alt="excel coffee shop" src="https://github.com/user-attachments/assets/d9aa4376-4d8f-4211-bae5-c4f08966feb0" />
-excel file:
+
+excel file: https://github.com/Saleh-MH4/Coffee-Shop-analyst/blob/main/coffe%20shop%20project(excel).xlsx
 
 
 
-### 3. Power BI Interactive Dashboards
+### 2. Power BI Interactive Dashboards
 
 
 ---
@@ -138,7 +139,7 @@ ORDER BY Year, Month;
 - Highest margin product: Darjeeling (39.3%)
 - Best state: California ($23,032)
 
-SQL FILE :
+SQL FILE : https://github.com/Saleh-MH4/Coffee-Shop-analyst/blob/main/cfeshop.sql
 
 
 ---
